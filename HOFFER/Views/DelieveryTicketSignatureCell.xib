@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="32700.99.1234" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22685"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="none" indentationWidth="10" reuseIdentifier="DeliveryTicketSignatureCell" rowHeight="200" id="qP1-eB-4f2" customClass="DeliveryTicketSignatureCell" customModule="HOFFER" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="270" height="200"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" ambiguous="YES" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="qP1-eB-4f2" id="eMV-iX-3Rf">
+                <rect key="frame" x="0.0" y="0.0" width="270" height="200"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Cvh-ip-7db">
+                        <rect key="frame" x="0.0" y="0.0" width="270" height="35"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="center" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="DeliveryIcon" translatesAutoresizingMaskIntoConstraints="NO" id="odu-dd-6Mv">
+                                <rect key="frame" x="8" y="2" width="31" height="31"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="odu-dd-6Mv" secondAttribute="height" multiplier="1:1" id="Gg8-7X-pAt"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Param:" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="zKK-Km-XkU">
+                                <rect key="frame" x="44" y="0.0" width="53" height="35"/>
+                                <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
+                                <color key="textColor" red="0.12549019610000001" green="0.24313725489999999" blue="0.51764705879999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="35" id="MXD-9V-i5j"/>
+                            <constraint firstItem="zKK-Km-XkU" firstAttribute="leading" secondItem="odu-dd-6Mv" secondAttribute="trailing" constant="5" id="gFY-Lp-nol"/>
+                            <constraint firstItem="odu-dd-6Mv" firstAttribute="leading" secondItem="Cvh-ip-7db" secondAttribute="leading" constant="8" id="i5R-eE-0ag"/>
+                            <constraint firstAttribute="bottom" secondItem="odu-dd-6Mv" secondAttribute="bottom" constant="2" id="tH6-mN-ZxY"/>
+                            <constraint firstItem="odu-dd-6Mv" firstAttribute="top" secondItem="Cvh-ip-7db" secondAttribute="top" constant="2" id="vUH-hn-ioR"/>
+                            <constraint firstItem="zKK-Km-XkU" firstAttribute="top" secondItem="Cvh-ip-7db" secondAttribute="top" id="zsC-AZ-UgQ"/>
+                            <constraint firstAttribute="bottom" secondItem="zKK-Km-XkU" secondAttribute="bottom" id="zxX-PQ-HeJ"/>
+                        </constraints>
+                    </view>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="3Ov-Qf-Oin">
+                        <rect key="frame" x="0.0" y="35" width="270" height="160"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="Yu9-Vk-6yD">
+                                <rect key="frame" x="0.0" y="0.0" width="270" height="145"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </imageView>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="dPd-Bm-fjl">
+                                <rect key="frame" x="0.0" y="145" width="270" height="15"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstAttribute="trailing" secondItem="dPd-Bm-fjl" secondAttribute="trailing" id="7Kp-11-gOa"/>
+                            <constraint firstItem="Yu9-Vk-6yD" firstAttribute="top" secondItem="3Ov-Qf-Oin" secondAttribute="top" id="El0-h2-ciZ"/>
+                            <constraint firstItem="Yu9-Vk-6yD" firstAttribute="leading" secondItem="3Ov-Qf-Oin" secondAttribute="leading" id="I3w-aT-lL1"/>
+                            <constraint firstAttribute="bottom" secondItem="Yu9-Vk-6yD" secondAttribute="bottom" constant="15" id="Ny4-Gm-497"/>
+                            <constraint firstItem="dPd-Bm-fjl" firstAttribute="top" secondItem="Yu9-Vk-6yD" secondAttribute="bottom" id="SAV-Zp-rXS"/>
+                            <constraint firstItem="dPd-Bm-fjl" firstAttribute="leading" secondItem="3Ov-Qf-Oin" secondAttribute="leading" id="eWh-r1-ady"/>
+                            <constraint firstAttribute="trailing" secondItem="Yu9-Vk-6yD" secondAttribute="trailing" id="gnL-bR-GZr"/>
+                            <constraint firstAttribute="bottom" secondItem="dPd-Bm-fjl" secondAttribute="bottom" id="nKS-1u-OmZ"/>
+                            <constraint firstAttribute="height" constant="160" id="r1c-xp-cPr"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="Cvh-ip-7db" firstAttribute="leading" secondItem="eMV-iX-3Rf" secondAttribute="leading" id="ETp-d4-Oaa"/>
+                    <constraint firstAttribute="bottom" secondItem="3Ov-Qf-Oin" secondAttribute="bottom" id="JhE-8g-FOs"/>
+                    <constraint firstItem="3Ov-Qf-Oin" firstAttribute="width" secondItem="Cvh-ip-7db" secondAttribute="width" id="KDe-9n-8Qk"/>
+                    <constraint firstAttribute="trailing" secondItem="Cvh-ip-7db" secondAttribute="trailing" id="SJg-Kb-OtC"/>
+                    <constraint firstItem="3Ov-Qf-Oin" firstAttribute="top" secondItem="Cvh-ip-7db" secondAttribute="bottom" id="Vd1-sl-fvS"/>
+                    <constraint firstItem="3Ov-Qf-Oin" firstAttribute="leading" secondItem="eMV-iX-3Rf" secondAttribute="leading" id="caU-BL-QRP"/>
+                    <constraint firstItem="Cvh-ip-7db" firstAttribute="top" secondItem="eMV-iX-3Rf" secondAttribute="top" id="j6k-sM-Kza"/>
+                    <constraint firstAttribute="trailing" secondItem="3Ov-Qf-Oin" secondAttribute="trailing" id="o41-N3-9Mr"/>
+                </constraints>
+            </tableViewCellContentView>
+            <color key="backgroundColor" red="0.85882352939999995" green="0.92156862750000001" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+            <connections>
+                <outlet property="imgIcon" destination="odu-dd-6Mv" id="0cq-tf-upY"/>
+                <outlet property="imgSignature" destination="Yu9-Vk-6yD" id="Jxp-EB-b00"/>
+                <outlet property="lblParameter" destination="zKK-Km-XkU" id="uiN-rk-XKI"/>
+            </connections>
+            <point key="canvasLocation" x="-102.40000000000001" y="129.53523238380811"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="DeliveryIcon" width="128" height="128"/>
+    </resources>
+</document>

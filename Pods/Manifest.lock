@@ -1,0 +1,76 @@
+PODS:
+  - AFNetworking (4.0.1):
+    - AFNetworking/NSURLSession (= 4.0.1)
+    - AFNetworking/Reachability (= 4.0.1)
+    - AFNetworking/Security (= 4.0.1)
+    - AFNetworking/Serialization (= 4.0.1)
+    - AFNetworking/UIKit (= 4.0.1)
+  - AFNetworking/NSURLSession (4.0.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (4.0.1)
+  - AFNetworking/Security (4.0.1)
+  - AFNetworking/Serialization (4.0.1)
+  - AFNetworking/UIKit (4.0.1):
+    - AFNetworking/NSURLSession
+  - CocoaMQTT (2.1.6):
+    - CocoaMQTT/Core (= 2.1.6)
+  - CocoaMQTT/Core (2.1.6):
+    - MqttCocoaAsyncSocket (~> 1.0.8)
+  - IQKeyboardManagerSwift (7.0.2)
+  - Kingfisher (7.11.0)
+  - MqttCocoaAsyncSocket (1.0.8)
+  - MSWeakTimer (1.1.0)
+  - SDWebImage (5.19.1):
+    - SDWebImage/Core (= 5.19.1)
+  - SDWebImage/Core (5.19.1)
+  - SpinKit (1.2.0)
+  - SVProgressHUD (2.3.1):
+    - SVProgressHUD/Core (= 2.3.1)
+  - SVProgressHUD/Core (2.3.1)
+  - Toast-Swift (5.0.1)
+  - TweeTextField (1.6.4)
+
+DEPENDENCIES:
+  - AFNetworking
+  - CocoaMQTT
+  - IQKeyboardManagerSwift
+  - Kingfisher
+  - MSWeakTimer
+  - SDWebImage
+  - SpinKit
+  - SVProgressHUD
+  - Toast-Swift (~> 5.0.1)
+  - TweeTextField
+
+SPEC REPOS:
+  trunk:
+    - AFNetworking
+    - CocoaMQTT
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - MqttCocoaAsyncSocket
+    - MSWeakTimer
+    - SDWebImage
+    - SpinKit
+    - SVProgressHUD
+    - Toast-Swift
+    - TweeTextField
+
+SPEC CHECKSUMS:
+  AFNetworking: 3bd23d814e976cd148d7d44c3ab78017b744cd58
+  CocoaMQTT: 1f206228b29318eabdacad0c2e4e88575922c27a
+  IQKeyboardManagerSwift: d338c11a896e9f29603443700c4567e32f830c22
+  Kingfisher: b9c985d864d43515f404f1ef4a8ce7d802ace3ac
+  MqttCocoaAsyncSocket: 77d3b74f76228dd5a05d1f9526eab101d415b30c
+  MSWeakTimer: 9426150f933b80ed3acf3f6d228e4b61f0e303c8
+  SDWebImage: 40b0b4053e36c660a764958bff99eed16610acbb
+  SpinKit: 65906a8b534a4e14cbfd3f8b0b6c329131faef4a
+  SVProgressHUD: 4837c74bdfe2e51e8821c397825996a8d7de6e22
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+  TweeTextField: 726de695eead9784f7ed02e22f6944bfcfcca07a
+
+PODFILE CHECKSUM: fc0c894d02a640925180e9d305958433cdc5c58b
+
+COCOAPODS: 1.12.1

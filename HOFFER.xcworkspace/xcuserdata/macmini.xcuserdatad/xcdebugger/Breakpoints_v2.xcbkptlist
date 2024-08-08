@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HOFFER/CommonClasses/BLE_Manager/PeripheralList/PeripheralList.swift"
+            timestampString = "557308943.488977"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "calculateFilteredPeripherals()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HOFFER.PeripheralList.(calculateFilteredPeripherals in _E0970AA2F1A62E18854C2CC0823FB96C)() -&gt; Swift.Array&lt;HOFFER.BlePeripheral&gt;"
+                  moduleName = "HOFFER"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macmini/Documents/ILESH_DATA/Projects/SVN_Projects/Hoffer_App/Hoffer_Git/HOFFER/HOFFER/CommonClasses/BLE_Manager/PeripheralList/PeripheralList.swift"
+                  timestampString = "575905097.453355"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "812">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (HOFFER.BlePeripheral) -&gt; Swift.Bool in HOFFER.PeripheralList.(calculateFilteredPeripherals in _E0970AA2F1A62E18854C2CC0823FB96C)() -&gt; Swift.Array&lt;HOFFER.BlePeripheral&gt;"
+                  moduleName = "HOFFER"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macmini/Documents/ILESH_DATA/Projects/SVN_Projects/Hoffer_App/Hoffer_Git/HOFFER/HOFFER/CommonClasses/BLE_Manager/PeripheralList/PeripheralList.swift"
+                  timestampString = "575905097.457636"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HOFFER/CommonClasses/BLE_Manager/PeripheralList/PeripheralList.swift"
+            timestampString = "557308943.489059"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "calculateFilteredPeripherals()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HOFFER.PeripheralList.(calculateFilteredPeripherals in _E0970AA2F1A62E18854C2CC0823FB96C)() -&gt; Swift.Array&lt;HOFFER.BlePeripheral&gt;"
+                  moduleName = "HOFFER"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macmini/Documents/ILESH_DATA/Projects/SVN_Projects/Hoffer_App/Hoffer_Git/HOFFER/HOFFER/CommonClasses/BLE_Manager/PeripheralList/PeripheralList.swift"
+                  timestampString = "575905097.600055"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "1168">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 (HOFFER.BlePeripheral) -&gt; Swift.Bool in HOFFER.PeripheralList.(calculateFilteredPeripherals in _E0970AA2F1A62E18854C2CC0823FB96C)() -&gt; Swift.Array&lt;HOFFER.BlePeripheral&gt;"
+                  moduleName = "HOFFER"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macmini/Documents/ILESH_DATA/Projects/SVN_Projects/Hoffer_App/Hoffer_Git/HOFFER/HOFFER/CommonClasses/BLE_Manager/PeripheralList/PeripheralList.swift"
+                  timestampString = "575905097.604005"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HOFFER/CommonClasses/BLE_Manager/PeripheralList/PeripheralList.swift"
+            timestampString = "557308943.4891289"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "calculateFilteredPeripherals()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HOFFER/CommonClasses/BLE_Manager/PeripheralList/PeripheralList.swift"
+            timestampString = "557308943.489193"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "calculateFilteredPeripherals()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HOFFER.PeripheralList.(calculateFilteredPeripherals in _E0970AA2F1A62E18854C2CC0823FB96C)() -&gt; Swift.Array&lt;HOFFER.BlePeripheral&gt;"
+                  moduleName = "HOFFER"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macmini/Documents/ILESH_DATA/Projects/SVN_Projects/Hoffer_App/Code/hofferios/HOFFER/HOFFER/CommonClasses/BLE_Manager/PeripheralList/PeripheralList.swift"
+                  timestampString = "557214934.9179519"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "464">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (HOFFER.BlePeripheral) -&gt; Swift.Bool in HOFFER.PeripheralList.(calculateFilteredPeripherals in _E0970AA2F1A62E18854C2CC0823FB96C)() -&gt; Swift.Array&lt;HOFFER.BlePeripheral&gt;"
+                  moduleName = "HOFFER"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macmini/Documents/ILESH_DATA/Projects/SVN_Projects/Hoffer_App/Code/hofferios/HOFFER/HOFFER/CommonClasses/BLE_Manager/PeripheralList/PeripheralList.swift"
+                  timestampString = "557214934.920962"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HOFFER/CommonClasses/BLE_Manager/PeripheralList/PeripheralList.swift"
+            timestampString = "557308943.489254"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "calculateFilteredPeripherals()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HOFFER/CommonClasses/BLE_Manager/PeripheralList/PeripheralList.swift"
+            timestampString = "557308943.489315"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "calculateFilteredPeripherals()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HOFFER/CommonClasses/BLE_Manager/PeripheralList/PeripheralList.swift"
+            timestampString = "557308943.489375"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "116"
+            endingLineNumber = "116"
+            landmarkName = "calculateFilteredPeripherals()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HOFFER.PeripheralList.(calculateFilteredPeripherals in _E0970AA2F1A62E18854C2CC0823FB96C)() -&gt; Swift.Array&lt;HOFFER.BlePeripheral&gt;"
+                  moduleName = "HOFFER"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macmini/Documents/ILESH_DATA/Projects/SVN_Projects/Hoffer_App/Code/hofferios/HOFFER/HOFFER/CommonClasses/BLE_Manager/PeripheralList/PeripheralList.swift"
+                  timestampString = "557215027.795278"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "116"
+                  endingLineNumber = "116"
+                  offsetFromSymbolStart = "1428">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #5 (HOFFER.BlePeripheral) -&gt; Swift.Bool in HOFFER.PeripheralList.(calculateFilteredPeripherals in _E0970AA2F1A62E18854C2CC0823FB96C)() -&gt; Swift.Array&lt;HOFFER.BlePeripheral&gt;"
+                  moduleName = "HOFFER"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macmini/Documents/ILESH_DATA/Projects/SVN_Projects/Hoffer_App/Code/hofferios/HOFFER/HOFFER/CommonClasses/BLE_Manager/PeripheralList/PeripheralList.swift"
+                  timestampString = "557215027.799132"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            scope = "0"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            scope = "0"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HOFFER/CommonClasses/IPAlertTextFields/IPAlertTextField.swift"
+            timestampString = "571556173.790433"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "398"
+            endingLineNumber = "398"
+            landmarkName = "showDropDown_DeliveryUnit()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HOFFER/CommonClasses/HUB/AkWebServiceCall.swift"
+            timestampString = "573028063.082132"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "CallApiWithPath(path:input:showLoader:view:isGetMethod:isGetWithParameter:isPostWithGetParameters:success:failure:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in HOFFER.AkWebServiceCall.CallApiWithPath(path: Swift.String, input: __C.NSDictionary, showLoader: Swift.Bool, view: __C.UIView, isGetMethod: Swift.Bool, isGetWithParameter: Swift.Bool, isPostWithGetParameters: Swift.Bool, success: (__C.NSDictionary, Swift.Bool) -&gt; (), failure: (__C.NSDictionary, Swift.Bool) -&gt; ()) -&gt; __C.NSURLSession"
+                  moduleName = "HOFFER"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macmini/Documents/ILESH_DATA/Projects/SVN_Projects/Hoffer_App/Hoffer_Git/HOFFER/HOFFER/CommonClasses/HUB/AkWebServiceCall.swift"
+                  timestampString = "575905097.627126"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "2236">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #6 () -&gt; () in closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in HOFFER.AkWebServiceCall.CallApiWithPath(path: Swift.String, input: __C.NSDictionary, showLoader: Swift.Bool, view: __C.UIView, isGetMethod: Swift.Bool, isGetWithParameter: Swift.Bool, isPostWithGetParameters: Swift.Bool, success: (__C.NSDictionary, Swift.Bool) -&gt; (), failure: (__C.NSDictionary, Swift.Bool) -&gt; ()) -&gt; __C.NSURLSession"
+                  moduleName = "HOFFER"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macmini/Documents/ILESH_DATA/Projects/SVN_Projects/Hoffer_App/Hoffer_Git/HOFFER/HOFFER/CommonClasses/HUB/AkWebServiceCall.swift"
+                  timestampString = "575905097.63019"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HOFFER/CommonClasses/HUB/Singleton.swift"
+            timestampString = "573144623.050706"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "240"
+            endingLineNumber = "240"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HOFFER/CommonClasses/String/String+RegEx.swift"
+            timestampString = "571140749.312364"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "129"
+            endingLineNumber = "129"
+            landmarkName = "ConvertArduino_AT_Command_ToArray()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HOFFER/ViewControllers/SendTicketVC/SendTicketVC.swift"
+            timestampString = "575902328.376853"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "182"
+            endingLineNumber = "182"
+            landmarkName = "sendTicket(img:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HOFFER/ViewControllers/DelieveryTicketVC/DelieveryTicketVC.swift"
+            timestampString = "573395313.177896"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "270"
+            endingLineNumber = "270"
+            landmarkName = "saveTicket()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HOFFER.DelieveryTicketVC.saveTicket() -&gt; ()"
+                  moduleName = "HOFFER"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macmini/Documents/ILESH_DATA/Projects/SVN_Projects/Hoffer_App/Hoffer_Git/HOFFER/HOFFER/ViewControllers/DelieveryTicketVC/DelieveryTicketVC.swift"
+                  timestampString = "575905097.6726739"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "270"
+                  endingLineNumber = "270"
+                  offsetFromSymbolStart = "5988">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.NSDictionary, Swift.Bool) -&gt; () in HOFFER.DelieveryTicketVC.saveTicket() -&gt; ()"
+                  moduleName = "HOFFER"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macmini/Documents/ILESH_DATA/Projects/SVN_Projects/Hoffer_App/Hoffer_Git/HOFFER/HOFFER/ViewControllers/DelieveryTicketVC/DelieveryTicketVC.swift"
+                  timestampString = "575905097.676476"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "272"
+                  endingLineNumber = "272"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HOFFER/ViewControllers/DelieveryTicketVC/DelieveryTicketVC.swift"
+            timestampString = "573395313.17854"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "sendTicket()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HOFFER/ViewControllers/SendTicketVC/SendTicketVC.swift"
+            timestampString = "575902328.376989"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "188"
+            endingLineNumber = "188"
+            landmarkName = "sendTicket(img:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HOFFER/ViewControllers/DelieveryTicketVC/DelieveryTicketVC.swift"
+            timestampString = "573395313.178916"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "303"
+            endingLineNumber = "303"
+            landmarkName = "call_Delete_Ticket(ticketID:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HOFFER.DelieveryTicketVC.call_Delete_Ticket(ticketID: Swift.String) -&gt; ()"
+                  moduleName = "HOFFER"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macmini/Documents/ILESH_DATA/Projects/SVN_Projects/Hoffer_App/Hoffer_Git/HOFFER/HOFFER/ViewControllers/DelieveryTicketVC/DelieveryTicketVC.swift"
+                  timestampString = "573142808.992108"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "302"
+                  endingLineNumber = "302"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.NSDictionary, Swift.Bool) -&gt; () in HOFFER.DelieveryTicketVC.call_Delete_Ticket(ticketID: Swift.String) -&gt; ()"
+                  moduleName = "HOFFER"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macmini/Documents/ILESH_DATA/Projects/SVN_Projects/Hoffer_App/Hoffer_Git/HOFFER/HOFFER/ViewControllers/DelieveryTicketVC/DelieveryTicketVC.swift"
+                  timestampString = "573142808.996462"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "303"
+                  endingLineNumber = "303"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HOFFER/ViewControllers/SendTicketVC/SendTicketVC.swift"
+            timestampString = "575902328.3770829"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "164"
+            endingLineNumber = "164"
+            landmarkName = "sendTicket(img:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HOFFER/ViewControllers/SearchBluetoothVC/SearchBluetoothVC.swift"
+            timestampString = "573545083.544365"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "415"
+            endingLineNumber = "415"
+            landmarkName = "connect(peripheral:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
